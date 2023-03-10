@@ -14,3 +14,15 @@ Data Mining (CIS-335) final project
  - Build webcam
  - Set up facial recognition
  - Train ML model to detect Gender
+
+
+### Training Data
+
+The data itself: `https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset`
+
+The first thing I am planning on doing next is to download these pictures, and then <br>
+organize them into their own folders and setup a csv file containing the label (male or female) <br>
+and then the image bytes of the photo.
+
+Then hopefully after training a decistion tree I will have a model good enough to tell <br>
+wether or not the person using my streamlit app is a male or a female.
