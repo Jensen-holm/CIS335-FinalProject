@@ -9,3 +9,8 @@ Data Mining (CIS-335) final project
 ### Run
 1. `streamlit run app.py`
 
+
+### Process
+ - Build webcam
+ - Set up facial recognition
+ - Train ML model to detect Gender
